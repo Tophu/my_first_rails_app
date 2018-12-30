@@ -1,0 +1,17 @@
+Exercise git push origin master :
+
+https://www.theodinproject.com/courses/web-development-101/lessons/your-first-rails-application?ref=lnav
+
+
+Problem:
+
+Permission denied (publickey).
+
+fatal: 'origin' does not appear to be a git repository
+
+
+Solution:
+
+https://stackoverflow.com/questions/32238616/git-push-fatal-origin-does-not-appear-to-be-a-git-repository-fatal-could-n/32238628
+
+git push origin master <URL to Repository>
