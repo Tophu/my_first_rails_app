@@ -5,15 +5,9 @@ https://www.theodinproject.com/courses/web-development-101/lessons/your-first-ra
 
 Problem:
 
-<<<<<<< HEAD
 Permission denied (publickey). (1st Error)
 
 fatal: 'origin' does not appear to be a git repository (2nd Error)
-=======
-Permission denied (publickey).
-
-fatal: 'origin' does not appear to be a git repository
->>>>>>> a591242a7dc002688fd566009ec3511fe0cab70b
 
 
 Solution:
@@ -21,3 +15,9 @@ Solution:
 https://stackoverflow.com/questions/32238616/git-push-fatal-origin-does-not-appear-to-be-a-git-repository-fatal-could-n/32238628
 
 git push origin master <URL to Repository>
+
+
+
+GIT TUTORIAL for Beginners: Command-Line Fundamentals:
+
+https://www.youtube.com/watch?v=HVsySz-h9r4
