@@ -5,9 +5,9 @@ https://www.theodinproject.com/courses/web-development-101/lessons/your-first-ra
 
 Problem:
 
-Permission denied (publickey). (First Error)
+Permission denied (publickey). (1st Error)
 
-fatal: 'origin' does not appear to be a git repository (Second Error)
+fatal: 'origin' does not appear to be a git repository (2nd Error)
 
 
 Solution:
